@@ -32,6 +32,7 @@ public class ModuleUtils {
      * gRPC standard library package ID.
      */
     private static Module grpcModule = null;
+    private static String s = "sdjhsds";
 
     private ModuleUtils() {
     }
